@@ -1,7 +1,13 @@
-# Weather API for met.hu by Varga-Molnár Bertalan
+# Időjárás API a met.hu-hoz by Varga-Molnár Bertalan
 
-## Usage
+## Használat
 ### /scrapeMet
-This updates the stored data on server with the latest available info on met.hu
+Ez új lekérdezést indít a met.hu-ról és elmenti a friss adatokat a szerveren.
 ### /getData
-This returns the latest weather info.
+Ez visszaadja a tárolt legfrissebb adatokat.
+
+## Licenc
+Ez a szoftver nem nyílt forráskódú. A szoftver használata, terjesztése vagy módosítása kizárólag a készítő előzetes írásos engedélyével és díjfizetés ellenében engedélyezett.
+A szoftver használatához licencet kell vásárolni.
+Licenceléssel kapcsolatos kérdések esetén kérjük, lépjen kapcsolatba az alábbi e-mail címen: [vargamolnarb@gmail.com].
+A jogosulatlan használat szigorúan tilos, és jogi következményeket vonhat maga után.
