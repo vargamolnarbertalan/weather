@@ -30,7 +30,7 @@ def scrape_met():
     try:
         with sync_playwright() as p:
             data = []
-            browser = p.chromium.launch(headless=False)
+            browser = p.chromium.launch(headless=True)
             page = browser.new_page()
             page.goto("https://www.met.hu/idojaras/tavaink/balaton/mert_adatok/main.php")
 
