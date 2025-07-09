@@ -1,0 +1,137 @@
+[
+  {
+    "place": "Balatonaliga",
+    "windDir": "északnyugati",
+    "windSpeed": "29",
+    "beaufort": "4",
+    "avgWindDir": "északnyugati",
+    "avgWindSpeed": "22",
+    "avgBeaufort": "4"
+  },
+  {
+    "place": "Balatonalmádi",
+    "windDir": "északnyugati",
+    "windSpeed": "32",
+    "beaufort": "5",
+    "avgWindDir": "északnyugati",
+    "avgWindSpeed": "16",
+    "avgBeaufort": "3"
+  },
+  {
+    "place": "Balatonfüred",
+    "windDir": "nyugati",
+    "windSpeed": "23",
+    "beaufort": "4",
+    "avgWindDir": "nyugati",
+    "avgWindSpeed": "13",
+    "avgBeaufort": "3"
+  },
+  {
+    "place": "Balatonmáriafürdő",
+    "windDir": "nyugati",
+    "windSpeed": "22",
+    "beaufort": "4",
+    "avgWindDir": "nyugati",
+    "avgWindSpeed": "13",
+    "avgBeaufort": "3"
+  },
+  {
+    "place": "Balatonőszöd",
+    "windDir": "északnyugati",
+    "windSpeed": "44",
+    "beaufort": "6",
+    "avgWindDir": "északnyugati",
+    "avgWindSpeed": "32",
+    "avgBeaufort": "5"
+  },
+  {
+    "place": "Balatonszemes platform",
+    "windDir": "északnyugati",
+    "windSpeed": "38",
+    "beaufort": "5",
+    "avgWindDir": "északnyugati",
+    "avgWindSpeed": "31",
+    "avgBeaufort": "5"
+  },
+  {
+    "place": "Fonyód",
+    "windDir": "északnyugati",
+    "windSpeed": "35",
+    "beaufort": "5",
+    "avgWindDir": "északnyugati",
+    "avgWindSpeed": "26",
+    "avgBeaufort": "4"
+  },
+  {
+    "place": "Keszthely",
+    "windDir": "északnyugati",
+    "windSpeed": "6",
+    "beaufort": "2",
+    "avgWindDir": "északnyugati",
+    "avgWindSpeed": "3",
+    "avgBeaufort": "1"
+  },
+  {
+    "place": "Keszthely platform",
+    "windDir": "nyugati",
+    "windSpeed": "12",
+    "beaufort": "3",
+    "avgWindDir": "nyugati",
+    "avgWindSpeed": "9",
+    "avgBeaufort": "2"
+  },
+  {
+    "place": "Örvényes",
+    "windDir": "északnyugati",
+    "windSpeed": "22",
+    "beaufort": "4",
+    "avgWindDir": "északnyugati",
+    "avgWindSpeed": "9",
+    "avgBeaufort": "2"
+  },
+  {
+    "place": "Siófok",
+    "windDir": "északnyugati",
+    "windSpeed": "45",
+    "beaufort": "6",
+    "avgWindDir": "északnyugati",
+    "avgWindSpeed": "34",
+    "avgBeaufort": "5"
+  },
+  {
+    "place": "Siófok platform",
+    "windDir": "északnyugati",
+    "windSpeed": "45",
+    "beaufort": "6",
+    "avgWindDir": "északnyugati",
+    "avgWindSpeed": "31",
+    "avgBeaufort": "5"
+  },
+  {
+    "place": "Szigliget",
+    "windDir": "nyugati",
+    "windSpeed": "14",
+    "beaufort": "3",
+    "avgWindDir": "nyugati",
+    "avgWindSpeed": "6",
+    "avgBeaufort": "1"
+  },
+  {
+    "place": "Szigliget platform",
+    "windDir": "északnyugati",
+    "windSpeed": "44",
+    "beaufort": "6",
+    "avgWindDir": "északnyugati",
+    "avgWindSpeed": "35",
+    "avgBeaufort": "5"
+  },
+  {
+    "place": "Zánka",
+    "windDir": "nyugati",
+    "windSpeed": "21",
+    "beaufort": "4",
+    "avgWindDir": "nyugati",
+    "avgWindSpeed": "15",
+    "avgBeaufort": "3"
+  }
+]
